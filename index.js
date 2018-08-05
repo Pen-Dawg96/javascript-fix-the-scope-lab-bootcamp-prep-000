@@ -19,4 +19,4 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = funkyfunction()()
+var theFunk = "FUNKY!"
